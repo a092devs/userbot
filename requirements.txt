@@ -11,5 +11,5 @@ Pillow>=6.0.0
 redis>=3.3.10
 requests>=2.22.0
 speedtest-cli>=2.1.2
-telethon>=1.10.6
+telethon>=1.11.3
 youtube-dl>=2019.9.28
